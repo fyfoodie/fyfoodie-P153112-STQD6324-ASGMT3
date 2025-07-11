@@ -1,5 +1,4 @@
 # P153112-STQD6324-ASGMT3
-Assignment 3 for STQD6324 using MongoDB and Spark2
 
 # MovieLens 100k Analysis using MongoDB & Spark2
  
